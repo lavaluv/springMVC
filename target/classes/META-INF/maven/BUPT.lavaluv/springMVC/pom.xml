@@ -3,7 +3,6 @@
   <groupId>BUPT.lavaluv</groupId>
   <artifactId>springMVC</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
   <properties>
   	<!-- generic properties -->
   	<java.version>1.8</java.version>
